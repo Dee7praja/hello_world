@@ -6,4 +6,4 @@
 print("hello World")
 
 #nothing to write new
-#learing git
+#learning git
